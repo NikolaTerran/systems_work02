@@ -19,8 +19,6 @@ int main(){
 
 	printf("%x\n",a);
 	printf("voila!");
-
+	printf("By the way I don't find a point to convert hex to decimal and print it, because the output of that action is completely jibberish.");
 	return 0;
-
-	
 }
